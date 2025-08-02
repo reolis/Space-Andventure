@@ -32,6 +32,11 @@
 
 ---
 
+## 🚀 Установка игры
+Скачать исполняемый файл можно тут 👉 https://drive.google.com/drive/folders/1Vb9Z_MIc_r0nKflhTByOHW3LBkBgMZKu?usp=drive_link
+
+---
+
 ## 🧑‍💻 Автор
 
 👤 [@reolis](https://github.com/reolis)
